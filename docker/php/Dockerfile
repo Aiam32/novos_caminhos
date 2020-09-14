@@ -27,7 +27,7 @@ RUN apk add --no-cache $PHPIZE_DEPS \
     && pecl install xdebug-2.9.0 \
     && docker-php-ext-enable xdebug
 
-ENV timezone=America/Sao_Paulo
+ENV timezone=America/Belem
 
 RUN ln -snf /usr/share/zoneinfo/${timezone} /etc/localtime && \
   echo ${timezone} > /etc/timezone && \
