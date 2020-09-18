@@ -10,3 +10,12 @@
 [15-Sep-2020 16:54:55 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/framework/../framework/fsphp.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/framework/template.php on line 2
 [15-Sep-2020 16:54:55 America/Araguaina] PHP Stack trace:
 [15-Sep-2020 16:54:55 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/framework/template.php:0
+[16-Sep-2020 19:04:01 America/Araguaina] PHP Warning:  require(/usr/share/nginx/html/../framework/config.php): failed to open stream: No such file or directory in /usr/share/nginx/html/index.php on line 2
+[16-Sep-2020 19:04:01 America/Araguaina] PHP Stack trace:
+[16-Sep-2020 19:04:01 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[16-Sep-2020 19:04:01 America/Araguaina] PHP Fatal error:  require(): Failed opening required '/usr/share/nginx/html/../framework/config.php' (include_path='.:/usr/local/lib/php') in /usr/share/nginx/html/index.php on line 2
+[16-Sep-2020 19:04:01 America/Araguaina] PHP Stack trace:
+[16-Sep-2020 19:04:01 America/Araguaina] PHP   1. {main}() /usr/share/nginx/html/index.php:0
+[16-Sep-2020 20:37:02 America/Araguaina] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /usr/share/nginx/html/My settings/index.php on line 12
+[16-Sep-2020 20:37:02 America/Araguaina] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /usr/share/nginx/html/My settings/index.php on line 12
+[17-Sep-2020 17:18:11 America/Araguaina] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /usr/share/nginx/html/My settings/index.php on line 12

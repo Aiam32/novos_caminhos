@@ -17,7 +17,7 @@ PHPClassSession('print_r', __LINE__);
 
 $array = [
     "company" => "IFTO",
-    "course" => "Programador WEB",
+    "course" => "Programador Web",
     "class" => "Comandos de Saída",
 ];
 
