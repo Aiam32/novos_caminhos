@@ -3,7 +3,7 @@ require __DIR__ . '/../framework/config.php';
 PHPClassName('2.8 - Closures e Generators');
 
 /*
-*
+* 
 */
 PHPClassSession('CLOSURES', __LINE__);
 
@@ -35,7 +35,7 @@ var_dump($myCart);
 
 PHPClassSession('GENERATORS', __LINE__);
 
-$iterator = 400000;
+$iterator = 400;
 
 function showDates($days)
 {
