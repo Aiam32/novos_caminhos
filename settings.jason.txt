@@ -1,0 +1,6 @@
+    "workbench.editorAssociations": [
+        {
+            "viewType": "imagePreview.previewEditor",
+            "filenamePattern": "*.jpeg"
+        }
+    ],

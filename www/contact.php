@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Ugo Maia Fernandes</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Ugo Maia Fernandes" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Ugo Maia Fernandes " />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
@@ -37,12 +37,12 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/profile.jpg" alt="Ugo Maia Fernandes">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
-                        <ul class="header__social">
+                        <h4 class="title titl--h4">Ugo Maia Fernandes</h4>
+                        <div class="status">Web Developer</div>
+                        <ul class=" header__social">
                             <li>
                                 <a href="https://www.linkedin.com/in/iurygdeoliveira/">
                                     <i class="font-icon icon-linkedin"></i>
@@ -73,11 +73,11 @@
                             <span class="overhead">
                                 Email
                             </span>
-                            email.comercial@contato.com.br
+                            ugofernandes.dev@gmail.com
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
-                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">+55 (xx) xxxxx-xxxx </a>
+                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">+55 (91) xxxxx-xx41 </a>
                         </li>
                     </ul>
                     <ul class="header__contact">
@@ -86,7 +86,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            Belém - PA
                         </li>
                     </ul>
                 </div>
@@ -169,7 +169,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Ugo Maia Fernandes</footer>
                 </div>
             </div>
         </div>
