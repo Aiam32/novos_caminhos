@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Ugo Maia Fernandes</title>
+    <title>👨‍💻 Ugo Maia Fernandes 🚀</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,22 +43,22 @@
                         <div class="status">Web Developer</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
-                                    <i class="font-icon icon-linkedin"></i>
+                                </ /a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                </ / /i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/Aiam32">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/user/fernandesugo/about?view_as=subscriber">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/ugoaiam">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
@@ -135,62 +135,71 @@
                             <div class="gallery-grid js-grid-row js-filter-container">
                                 <div class="gutter-sizer"></div>
                                 <!-- Item 1 -->
-                                <figure class="gallery-grid__item category-html category-js">
-                                    <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                <figure class="gallery-grid__item category-html category-wordpress category-js">
+                                    <div class=" gallery-grid__image-wrap">
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto1.jpg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Google</h4>
+                                        <span
+                                            clas="gallery-grid__category">https://github.com/ilyas-it83/CloudComparer.git
+                                        </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 2 -->
-                                <figure class="gallery-grid__item category-wordpress">
+                                <figure class=" gallery-grid__item category-html">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto2.png"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Mozilla Firefox</h4>
+                                        <span
+                                            class="gallery-grid__category">https://github.com/Aris-t2/CustomCSSforFx.git
+                                        </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 3 -->
-                                <figure class="gallery-grid__item category-wordpress">
+                                <figure class="gallery-grid__item category-php">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto3.jpg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Telegram</h4>
+                                        <span
+                                            class="gallery-grid__category">https://github.com/php-telegram-bot/core.git
+                                        </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 4 -->
-                                <figure class="gallery-grid__item category-html category-wordpress category-php">
+                                <figure class="gallery-grid__item category-js">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto4.png"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">Twitter</h4>
+                                        <span class="gallery-grid__category">https://github.com/DIYgod/RSSHub.git
+                                        </span>
                                     </figcaption>
                                 </figure>
 
                                 <!-- Item 5 -->
-                                <figure class="gallery-grid__item category-wordpress">
+                                <figure class="gallery-grid__item category-php category-wordpress">
                                     <div class="gallery-grid__image-wrap">
-                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto.svg"
+                                        <img class="gallery-grid__image cover lazyload" src="assets/img/ifto5.jpg"
                                             data-zoom alt="" />
                                     </div>
                                     <figcaption class="gallery-grid__caption">
-                                        <h4 class="title title--h6 gallery-grid__title">Ifto</h4>
-                                        <span class="gallery-grid__category">ifto.com.br </span>
+                                        <h4 class="title title--h6 gallery-grid__title">WordPress</h4>
+                                        <span
+                                            class="gallery-grid__category">https://github.com/TrafeX/docker-wordpress.git
+                                        </span>
                                     </figcaption>
                                 </figure>
 

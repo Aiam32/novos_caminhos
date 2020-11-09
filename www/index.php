@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Ugo Maia Fernandes</title>
+    <title>👨‍💻 Ugo Maia Fernandes 🚀</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,22 +43,22 @@
                         <div class="status">Web Developer</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
-                                    <i class="font-icon icon-linkedin"></i>
+                                </ /a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                </ / /i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/Aiam32">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/user/fernandesugo/about?view_as=subscriber">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/ugoaiam">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
@@ -143,7 +143,6 @@
                                                     <img src="assets/img/ifto1.jpg" style="background-color: #FFF;"
                                                         alt="IFTO Logo" /></a>
                                             </div>
-
                                             <!-- Item client -->
                                             <div class="swiper-slide">
                                                 <a href="#"><img src="assets/img/ifto2.png"
@@ -151,13 +150,13 @@
                                             </div>
                                             <!-- Item client -->
                                             <div class="swiper-slide">
-                                                <a href="#"><img src="assets/img/ifto3.png"
+                                                <a href="#"><img src="assets/img/ifto3.jpg"
                                                         style="background-color: #FFF;" alt="IFTO Logo" /></a>
                                             </div>
                                             <!-- Item client -->
                                             <div class="swiper-slide">
                                                 <a href="#">
-                                                    <img src="assets/img/ifto4.jpg" style="background-color: #FFF;"
+                                                    <img src="assets/img/ifto4.png" style="background-color: #FFF;"
                                                         alt="IFTO Logo" /></a>
                                             </div>
 

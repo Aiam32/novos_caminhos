@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Ugo Maia Fernandes</title>
+    <title>👨‍💻 Ugo Maia Fernandes 🚀</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,22 +41,22 @@
                         <div class="status">Web Developer</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
-                                    <i class="font-icon icon-linkedin"></i>
+                                </ /a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                </ / /i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/Aiam32">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
+                                <a href="https://www.youtube.com/user/fernandesugo/about?view_as=subscriber">
                                     <i class="font-icon icon-youtube"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/IuryProf">
+                                <a href="https://twitter.com/ugoaiam">
                                     <i class="font-icon icon-twitter"></i>
                                 </a>
                             </li>
@@ -118,52 +118,33 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">MBA em Gestão de Tecnologia da
-                                            Informação</h5>
-                                        <span class="timeline__period">2013 — 2014</span>
-                                        <p class="timeline__description">
-                                            Centro Universitário Newton Paiva</p>
+                                        <h5 class="title title--h5 timeline__title">Ciências da Computação</h5>
+                                        <span class="timeline__period">2020 — presente</span>
+                                        <p class="timeline__description">UEPG (Universidade Estadual de Ponta
+                                            Grossa)
+                                        </p>
                                     </article>
 
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Bacharelado em Ciência da Computação
+                                        <h5 class="title title--h5 timeline__title">Bacharelado em Geofísica
                                         </h5>
-                                        <span class="timeline__period">2005 — 2009</span>
-                                        <p class="timeline__description">Universidade Católica de Goiás</p>
+                                        <span class="timeline__period">2014 — 2018</span>
+                                        <p class="timeline__description">UFPA (Universidade Federal do Pará)</p>
                                     </article>
 
                                     <!-- Item -->
                                     <article class="timeline__item">
                                         <h5 class="title title--h5 timeline__title">
-                                            Bootcamp Full Stack Developer
+                                            Licenciatura em Física
                                         </h5>
-                                        <span class="timeline__period">2020 — 2020</span>
-                                        <p class="timeline__description">IGTI - Instituto de Gestão e Tecnologia da
-                                            Informação.</p>
+                                        <span class="timeline__period">2010 — 2013</span>
+                                        <p class="timeline__description">UEPA (Universidade
+                                            do Estado do Pará)
+                                        </p>
                                     </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cursos Extracurriculares</h5>
-                                        <span class="timeline__period">ano — ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                        <ul>
-                                            <li>Curso 1</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 3</li>
-                                        </ul>
-                                    </article>
-                                    <article class="timeline__item">
 
-                                        <span class="timeline__period">ano — ano</span>
-                                        <p class="timeline__description">Empresa 2</p>
-                                        <ul>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                        </ul>
-                                    </article>
+                                    <!-- Item -->
 
 
                                 </div>
@@ -174,21 +155,11 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
+                                        <h5 class="title title--h5 timeline__title">Programador de Dispositivos Móveis
+                                        </h5>
+                                        <span class="timeline__period">2020</span>
+                                        <p class="timeline__description">IFAM (Instituto Federal do Amazonas)
+                                        </p>
                                     </article>
 
                                 </div>
@@ -198,35 +169,69 @@
 
                             <div class="col-12">
                                 <h2 class="title title--h3"><img class="title-icon"
-                                        src="assets/icons/dark/icon-experience.svg" alt="" /> Experiencia</h2>
+                                        src="assets/icons/dark/icon-experience.svg" alt="" /> Experiencia
+                                </h2>
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                        <h5 class="title title--h5 timeline__title">Setor tecnológico do
+                                            Tribunal
+                                            de Contas do Estado do Pará
+                                        </h5>
+                                        <span class="timeline__period">2019 — Presente</span>
+                                        <p class="timeline__description">Dentre as principais
+                                            responsabilidades
+                                            se
+                                            destacam, as atualizações de softwares e análise dos sistemas
+                                            operacionais
+                                            dos computadores em serviço.
+                                        </p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                        <h5 class="title title--h5 timeline__title">Instituto de Geociências
+                                            da
+                                            Universidade Federal do Pará
+                                        </h5>
+                                        <span class="timeline__period">2017 — 2018</span>
+                                        <p class="timeline__description">Dentre as principais
+                                            responsabilidades
+                                            como
+                                            estagiário se destaca, auxilío de análise de dados geológicos no
+                                            laboratório de prospecção geofísica.
+                                        </p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                        <h5 class="title title--h5 timeline__title">Faculdade de Geofísica
+                                            da Universidade Federal do Pará
+                                        </h5>
+                                        <span class="timeline__period">2015 — 2017</span>
+                                        <p class="timeline__description">Dentre as principais
+                                            responsabilidades
+                                            como
+                                            bolsista se destaca, auxilío no uso da linguagem de programação
+                                            Java
+                                            para a formação de dados gravimétricos e magnéticos no
+                                            laboraório de
+                                            mineralogia e petrologia.
+                                        </p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                        <h5 class="title title--h5 timeline__title">Labortório de Física da
+                                            Universidade
+                                            do Estado do Pará
+                                        </h5>
+                                        <span class="timeline__period">2011 — 2013</span>
+                                        <p class="timeline__description">Dentre as principais
+                                            responsabilidades
+                                            como
+                                            bolsista se destaca, auxílio na análise de dados de medidas
+                                            físicas
+                                            em
+                                            laboratório.
+                                        </p>
                                     </article>
 
                                 </div>
@@ -240,57 +245,56 @@
                                 <div class="box box__border">
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="50"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="80"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>PHP</span><span>50%</span></div>
+                                            <div class="progress-text"><span>PHP</span><span>80%</span></div>
                                         </div>
                                         <div class="progress-text"><span>PHP</span></div>
                                     </div>
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="60"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="65"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>WordPress</span><span>60%</span></div>
+                                            <div class="progress-text"><span>WordPress</span><span>65%</span>
+                                            </div>
                                         </div>
                                         <div class="progress-text"><span>WordPress</span></div>
                                     </div>
 
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="50"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
+                                            <div class="progress-text"><span>JavaScript</span><span>50%</span>
+                                            </div>
                                         </div>
                                         <div class="progress-text"><span>JavaScript</span></div>
                                     </div>
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="30"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="20"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>Node.js</span><span>30%</span></div>
+                                            <div class="progress-text"><span>Node.js</span><span>20%</span>
+                                            </div>
                                         </div>
                                         <div class="progress-text"><span>Node.js</span></div>
                                     </div>
-                                    <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
-                                            aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
-                                        </div>
-                                        <div class="progress-text"><span>JavaScript</span></div>
-                                    </div>
+
 
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="50"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="70"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>CSS</span><span>50%</span></div>
+                                            <div class="progress-text"><span>CSS</span><span>70%</span>
+                                            </div>
                                         </div>
                                         <div class="progress-text"><span>CSS</span></div>
                                     </div>
 
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="45"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>HTML</span><span>70%</span></div>
+                                            <div class="progress-text"><span>HTML</span><span>45%</span>
+                                            </div>
                                         </div>
                                         <div class="progress-text"><span>HTML</span></div>
                                     </div>
