@@ -1,8 +1,11 @@
 -- ENUNCIADO 
 
-Você foi contratado para dar consultoria a uma empresa. Analisando o banco de dados você notou que as senhas gravadas dos usuários estão em formato de texto, sendo que isso pode gerar uma falha de segurança, uma vez que elas não estão criptografadas.
+Você foi contratado para dar consultoria a uma empresa. 
+Analisando o banco de dados você notou que as senhas gravadas dos usuários estão em formato de texto, 
+sendo que isso pode gerar uma falha de segurança, uma vez que elas não estão criptografadas.
 
-Por tanto você deve selecionar o id, a senha atual e a senha transformada em MD5 de cada usuário na tabela account.
+Por tanto você deve selecionar o id, a senha atual 
+e a senha transformada em MD5 de cada usuário na tabela account.
 
 -- ESQUEMA DAS TABELAS A SEREM CRIADAS
 
@@ -30,3 +33,31 @@ id	    password	    MD5
 4	    zooFohH7w	    202b76ed4a556fdbf409505a8023695e
 5	    fah7ohNg	    05b3dccaa70f228f1bedc7a285e50d9d
 
+////////////////////////////////////////////////////////////
+
+RESOLUÇÃO:
+
+/* Selecione e execute os códigos na ordem 1., 2., 3. respectivamente. */ 
+
+1.
+
+CREATE TABLE account (
+    id INTEGER PRIMARY KEY,
+    name varchar(225),
+    login varchar(225),
+    password varchar(225)
+);
+
+2.
+
+INSERT INTO account (id, name, login, password)
+VALUES
+(1,	  'Joyce P. Parry',	        'Promeraw',	    'noh1Oozei'),
+(2,	  'Michael T. Gonzalez',	'Phers1942',	'Iath3see9bi'),
+(3,	  'Heather W. Lawless',	    'Hankicht',	    'diShono4'),
+(4,	  'Otis C. Hitt',	        'Conalothe',	'zooFohH7w'),
+(5,	  'Roger N. Brownfield',	'Worseente',	'fah7ohN');	
+
+3.
+
+SELECT password,md5(password) FROM account;
