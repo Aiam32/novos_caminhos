@@ -3,7 +3,9 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>👨‍💻 Ugo Maia Fernandes 🚀</title>
+    <font color="Gold">
+        <title>👨‍💻 Ugo Maia Fernandes 🚀</title>
+    </font>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -41,22 +43,24 @@
                     </div>
                     <div class="header__base-info">
                         <h4 class="title titl--h4">Ugo Maia Fernandes</h4>
-                        <div class="status">Web Developer</div>
+                        <div class="status">
+                            <font color="Yellow">Web Developer</font>
+                        </div>
                         <ul class=" header__social">
 
                             <li>
                                 <a href="https://github.com/Aiam32">
-                                    <i class="font-icon icon-github"></i>
+                                    <font color="GhostWhite"><i class="font-icon icon-github"></i></font>
                                 </a>
                             </li>
                             <li>
                                 <a href="https://www.youtube.com/user/fernandesugo/about?view_as=subscriber">
-                                    <i class="font-icon icon-youtube"></i>
+                                    <font color="GhostWhite"><i class="font-icon icon-youtube"></i></font>
                                 </a>
                             </li>
                             <li>
                                 <a href="https://twitter.com/ugoaiam">
-                                    <i class="font-icon icon-twitter"></i>
+                                    <font color="GhostWhite"><i class="font-icon icon-twitter"></i></font>
                                 </a>
                             </li>
 
@@ -66,23 +70,29 @@
                 <div class="header__right">
                     <ul class="header__contact">
                         <li>
-                            <span class="overhead">
-                                Email
-                            </span>
-                            ugofernandes.dev@gmail.com
+                            <h6>Email</h6>
+                            <p>
+                                <a href="mailto:fernandes.ugo@gmail.com?subject=Assunto">
+                                    <font color="Yellow">fernandes.ugo@gmail.com</font>
+                                </a>
+                            </p>
                         </li>
                         <li>
-                            <span class="overhead">Telefone</span><a
-                                href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx"> +55 (91) xxxxx-xx41 </a>
+                            <h6>Telefone</h6>
+                            <p>
+                                <a href="https://api.whatsapp.com/send?phone=55xxxxxxxxxxx">
+                                    <font color="Yellow">+55 (91) xxxxx-xx41</font>
+                                </a>
+                            </p>
                         </li>
                     </ul>
                     <ul class="header__contact">
 
                         <li>
-                            <span class="overhead">
-                                Endereço
-                            </span>
-                            Belém - PA
+                            <h6>Endereço</h6>
+                            <p>
+                                <font color="Yellow">Belém-PA</font>
+                            </p>
                         </li>
                     </ul>
                 </div>
@@ -93,10 +103,19 @@
                 <aside class="col-12 col-md-12 col-lg-2">
                     <div class="sidebar box sticky-column">
                         <ul class="nav">
-                            <li class="nav__item"><a class="active" href="index.html"><i class="icon-user"></i>Sobre
-                                    Mim</a></li>
-                            <li class="nav__item"><a href="resume.html"><i class="icon-file-text"></i>Currículo</a></li>
-                            <li class="nav__item"><a href="works.html"><i class="icon-codesandbox"></i>Portfólio</a>
+                            <li class="nav__item">
+                                <a class="active" href="index.html">
+                                    <font color="GhostWhite"><i class="icon-user"></i>Sobre Mim</font>
+                                </a>
+                            <li class="nav__item">
+                                <a href="resume.html">
+                                    <font color="GhostWhite"><i class="icon-file-text"></i>Currículo</font>
+                                </a>
+                            </li>
+                            <li class="nav__item">
+                                <a href="works.html">
+                                    <font color="GhostWhite"><i class="icon-codesandbox"></i>Portfólio</font>
+                                </a>
                             </li>
                             <!--<li class="nav__item"><a href="blog.html"><i class="icon-book-open"></i>Blog</a></li>-->
                             <li class="nav__item"><a href="contact.html"><i class="icon-book"></i>Contato</a></li>
@@ -165,7 +184,9 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Ugo Maia Fernandes</footer>
+                    <footer class="footer">
+                        <font color="LightGrey">© Ugo Fernandes</font>
+                    </footer>
                 </div>
             </div>
         </div>
